@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP.NET PRACTICE\\submitting data to different pages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9483080E-47B7-42F6-AC9C-6D522D924AFC}|submitting data to different pages\\submitting data to different pages.csproj|E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\3failure.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9483080E-47B7-42F6-AC9C-6D522D924AFC}|submitting data to different pages\\submitting data to different pages.csproj|solutionrelative:submitting data to different pages\\3failure.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9483080E-47B7-42F6-AC9C-6D522D924AFC}|submitting data to different pages\\submitting data to different pages.csproj|e:\\asp.net practice\\submitting data to different pages\\submitting data to different pages\\3failure.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9483080E-47B7-42F6-AC9C-6D522D924AFC}|submitting data to different pages\\submitting data to different pages.csproj|solutionrelative:submitting data to different pages\\3failure.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9483080E-47B7-42F6-AC9C-6D522D924AFC}|submitting data to different pages\\submitting data to different pages.csproj|E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\1loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9483080E-47B7-42F6-AC9C-6D522D924AFC}|submitting data to different pages\\submitting data to different pages.csproj|solutionrelative:submitting data to different pages\\1loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9483080E-47B7-42F6-AC9C-6D522D924AFC}|submitting data to different pages\\submitting data to different pages.csproj|E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\2success.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9483080E-47B7-42F6-AC9C-6D522D924AFC}|submitting data to different pages\\submitting data to different pages.csproj|solutionrelative:submitting data to different pages\\2success.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9483080E-47B7-42F6-AC9C-6D522D924AFC}|submitting data to different pages\\submitting data to different pages.csproj|E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\2success.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9483080E-47B7-42F6-AC9C-6D522D924AFC}|submitting data to different pages\\submitting data to different pages.csproj|solutionrelative:submitting data to different pages\\2success.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9483080E-47B7-42F6-AC9C-6D522D924AFC}|submitting data to different pages\\submitting data to different pages.csproj|E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\1loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9483080E-47B7-42F6-AC9C-6D522D924AFC}|submitting data to different pages\\submitting data to different pages.csproj|solutionrelative:submitting data to different pages\\1loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3failure.aspx.cs",
+              "DocumentMoniker": "E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\3failure.aspx.cs",
+              "RelativeDocumentMoniker": "submitting data to different pages\\3failure.aspx.cs",
+              "ToolTip": "E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\3failure.aspx.cs",
+              "RelativeToolTip": "submitting data to different pages\\3failure.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:15:25.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2success.aspx.cs",
+              "DocumentMoniker": "E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\2success.aspx.cs",
+              "RelativeDocumentMoniker": "submitting data to different pages\\2success.aspx.cs",
+              "ToolTip": "E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\2success.aspx.cs",
+              "RelativeToolTip": "submitting data to different pages\\2success.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:55:02.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1Loginform.aspx.cs",
+              "DocumentMoniker": "E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\1Loginform.aspx.cs",
+              "RelativeDocumentMoniker": "submitting data to different pages\\1Loginform.aspx.cs",
+              "ToolTip": "E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\1Loginform.aspx.cs",
+              "RelativeToolTip": "submitting data to different pages\\1Loginform.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:28:37.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3failure.aspx",
+              "DocumentMoniker": "E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\3failure.aspx",
+              "RelativeDocumentMoniker": "submitting data to different pages\\3failure.aspx",
+              "ToolTip": "E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\3failure.aspx",
+              "RelativeToolTip": "submitting data to different pages\\3failure.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-04T05:15:12.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "2success.aspx",
+              "DocumentMoniker": "E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\2success.aspx",
+              "RelativeDocumentMoniker": "submitting data to different pages\\2success.aspx",
+              "ToolTip": "E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\2success.aspx",
+              "RelativeToolTip": "submitting data to different pages\\2success.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-04T05:11:00.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "1Loginform.aspx",
+              "DocumentMoniker": "E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\1Loginform.aspx",
+              "RelativeDocumentMoniker": "submitting data to different pages\\1Loginform.aspx",
+              "ToolTip": "E:\\ASP.NET PRACTICE\\submitting data to different pages\\submitting data to different pages\\1Loginform.aspx",
+              "RelativeToolTip": "submitting data to different pages\\1Loginform.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-04T05:09:48.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
